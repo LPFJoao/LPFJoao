@@ -1,5 +1,5 @@
 # 💫 About Me:
-Great to see you here 👋<br><br> ⋆  Web Development enthusiast (HTML/CSS)<br> ⋆  Python Coder - Beginner<br> ⋆  Eager to learn<br> ⋆  Hobbies: Gaming, eating and learning<br>
+Great to see you here 👋<br><br> ⋆  Web Development enthusiast (HTML/CSS)<br> ⋆  Bash Enthusiast – Proficient<br> ⋆  Python Coder - Beginner<br>⋆  Eager to learn<br> ⋆  Hobbies: Gaming, eating and learning<br>
 
 
 ## 🌐 Socials:
